@@ -1,0 +1,11 @@
+commit 8e61d78baa0b7feb3cc0fabddf7240edafb20277
+Author: [Yaroslav Dvoretskyi] <[slavik_yad@ukr.net]>
+Date:   Mon Apr 30 00:42:46 2018 +0300
+
+    - додано файли домашнього завдання 2
+
+commit 7bd58887e3779ca81a3af3505bf5778fc3a2d158
+Author: [Yaroslav Dvoretskyi] <[slavik_yad@ukr.net]>
+Date:   Tue Apr 17 16:47:42 2018 +0300
+
+    added .gitignore
